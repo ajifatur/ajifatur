@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I'm Aji 👋
+
+<br>
+
+- 🔭 Web Developer at [Spandiv](https://spandiv.xyz/).
+- ⚡ Built some projects on Laravel, WordPress, and JavaScript.
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajifatur&show_icons=true"/>
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajifatur&layout=compact&langs_count=8"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajifatur&layout=compact&langs_count=8"/>
 
 <!--
 **ajifatur/ajifatur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
