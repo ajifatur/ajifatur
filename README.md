@@ -12,11 +12,13 @@
 </a>
 
 <br>
+<br>
 
 <a href="https://github.com/ajifatur">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajifatur&layout=compact&langs_count=8"/>
 </a>
 
+<br>
 <br>
 
 <a href="https://wakatime.com/@ajifatur">
