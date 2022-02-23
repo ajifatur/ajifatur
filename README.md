@@ -11,9 +11,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajifatur&show_icons=true"/>
 </a>
 
+<br>
+
 <a href="https://github.com/ajifatur">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajifatur&layout=compact&langs_count=8"/>
 </a>
+
+<br>
 
 <a href="https://wakatime.com/@ajifatur">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajifatur&layout=compact&langs_count=8"/>
