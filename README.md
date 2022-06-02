@@ -2,7 +2,8 @@
 
 <br>
 
-- 🔭 Web Developer at [Spandiv](https://spandiv.xyz/).
+- 🔭 Web Developer at [Spandiv Digital Solutions](https://spandiv.xyz/).
+- 🌱 Staff at [Semarang State University](https://unnes.ac.id/).
 - ⚡ Built some projects on Laravel, WordPress, and JavaScript.
 
 <br>
